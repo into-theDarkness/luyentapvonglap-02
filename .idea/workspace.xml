@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee9eac8a-7dbe-4124-9d93-d3613088d18a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nhap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nhap.html" beforeDir="false" afterPath="$PROJECT_DIR$/nhap.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570424467583</updated>
       <workItem from="1570424471571" duration="460000" />
-      <workItem from="1570430201845" duration="10203000" />
+      <workItem from="1570430201845" duration="10512000" />
     </task>
     <servers />
   </component>
