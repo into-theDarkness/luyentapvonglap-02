@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<div id="output"></div>
+<body>
+
+​
+<script>
+    // ------------ BEGIN of PRINT -----------//
+    function print(a) {
+        document.getElementById("output").innerHTML += a;
+    }
+    function printArr(a) {
+        for (let i=0; i<a.length; i++){
+            print(a[i]+" ");
+        }
+    }
+    function println() {
+        print("<br/>")
+    }
+</body>
+</html>
